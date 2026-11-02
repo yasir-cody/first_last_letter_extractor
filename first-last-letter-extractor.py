@@ -3,6 +3,7 @@
 # - takes first and last letter (indexing)
 # - prints first and last letter of the given word
 
+
 give_word = input("Type a word: ")
 
 first_letter = (give_word[0])
